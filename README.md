@@ -6,3 +6,4 @@ Tuberculosis is a serious health threat, especially for people living with HIV. 
 
 Among people with latent TB infection, HIV infection is the strongest known risk factor for progressing to TB disease. A person who has both HIV infection and TB disease has an AIDS-defining condition. People infected with HIV who also have either latent TB infection or TB disease can be effectively treated. The first step is to ensure that people living with HIV are tested for TB infection. If found to have TB infection, further tests are needed to rule out TB disease. 
 
+Tuberculosis remains a global health problem with an enormous burden of disease, estimated at 10.4 million new cases in 2015. To stop the tuberculosis epidemic, it is critical that we interrupt tuberculosis transmission. Further, the interventions required to interrupt tuberculosis transmission must be targeted to high-risk groups and settings. 
